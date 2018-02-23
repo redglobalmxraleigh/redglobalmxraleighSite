@@ -30,8 +30,9 @@ In a nutshell, to make changes on the application, you have to take the followin
 
   ### Develop on a local environment
 
-  Now you have to create a branch it's time to begin doing real work with Cloudant and Node.js.
+  Now you have to create a branch it's time to begin doing real work with Node.js.
 
+      $ git pull
       $ git branch "new branch name"
 
   Install node.js on your machine
