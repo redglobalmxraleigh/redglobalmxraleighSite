@@ -1,0 +1,104 @@
+15/Feb 16:44:29 INFO  eclipse.EclipsePlugin configureLog  - Logging configured.
+15/Feb 16:44:29 DEBUG eclipse.EclipsePlugin runInUIThread  - AccuRev Plugin Started
+15/Feb 16:44:29 DEBUG managers.LoginSessionManager loadLoginSessions  - Started
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - Exec cmd:com.accurev.commons.commands.info.impl.InfoCommandImpl@7e4af47b
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - isSupportUTF8:true
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - cmd.getSystemVariables():{LC_ALL=C.UTF-8}
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext run  - Running command with null session.
+java.lang.Throwable
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext$2.run(NewCommonCommandExecutorContext.java:326)
+	at com.accurev.ide.eclipse.ResourcesManager.performWithLoginLock(ResourcesManager.java:1466)
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext.runCommand(NewCommonCommandExecutorContext.java:343)
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext.exec(NewCommonCommandExecutorContext.java:198)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:129)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:78)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileBin(SecurityUtils.java:126)
+	at com.accurev.common.utils.SecurityUtils.parseServers(SecurityUtils.java:214)
+	at com.accurev.common.utils.SecurityUtils.getServers(SecurityUtils.java:328)
+	at com.accurev.ide.eclipse.managers.LoginSessionManager.loadLoginSessions(LoginSessionManager.java:114)
+	at com.accurev.ide.eclipse.AccuRevStartUp.earlyStartup(AccuRevStartUp.java:37)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext runCommand  - process.isAlive():false
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - non-zero final exitValue:9 on cmd:com.accurev.commons.commands.info.impl.InfoCommandImpl@7e4af47b
+java.lang.Throwable
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext.exec(NewCommonCommandExecutorContext.java:210)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:129)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:78)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileBin(SecurityUtils.java:126)
+	at com.accurev.common.utils.SecurityUtils.parseServers(SecurityUtils.java:214)
+	at com.accurev.common.utils.SecurityUtils.getServers(SecurityUtils.java:328)
+	at com.accurev.ide.eclipse.managers.LoginSessionManager.loadLoginSessions(LoginSessionManager.java:114)
+	at com.accurev.ide.eclipse.AccuRevStartUp.earlyStartup(AccuRevStartUp.java:37)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+15/Feb 16:44:29 WARN  utils.SecurityUtils getAcClientFileBin  - Couldn't determine client bin path.
+15/Feb 16:44:29 WARN  utils.SecurityUtils parseServers  - Couldn't find client file, no servers parsed.
+15/Feb 16:44:29 DEBUG utils.SecurityUtils getAcClientFileFromUser  - Client file:C:\Users\IBM_ADMIN\.accurev\servers.xml
+15/Feb 16:44:29 DEBUG utils.SecurityUtils migrateBinToUser  - Migrating:servers.xml
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - Exec cmd:com.accurev.commons.commands.info.impl.InfoCommandImpl@66edefc4
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - isSupportUTF8:true
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - cmd.getSystemVariables():{LC_ALL=C.UTF-8, AC_UNICODE=1}
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext run  - Running command with null session.
+java.lang.Throwable
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext$2.run(NewCommonCommandExecutorContext.java:326)
+	at com.accurev.ide.eclipse.ResourcesManager.performWithLoginLock(ResourcesManager.java:1466)
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext.runCommand(NewCommonCommandExecutorContext.java:343)
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext.exec(NewCommonCommandExecutorContext.java:198)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:129)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:78)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileBin(SecurityUtils.java:126)
+	at com.accurev.common.utils.SecurityUtils.migrateBinToUser(SecurityUtils.java:151)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileFromUser(SecurityUtils.java:196)
+	at com.accurev.common.utils.SecurityUtils.getServersXml(SecurityUtils.java:353)
+	at com.accurev.common.utils.SecurityUtils.getServers(SecurityUtils.java:329)
+	at com.accurev.ide.eclipse.managers.LoginSessionManager.loadLoginSessions(LoginSessionManager.java:114)
+	at com.accurev.ide.eclipse.AccuRevStartUp.earlyStartup(AccuRevStartUp.java:37)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext runCommand  - process.isAlive():false
+15/Feb 16:44:29 DEBUG actions.NewCommonCommandExecutorContext exec  - non-zero final exitValue:9 on cmd:com.accurev.commons.commands.info.impl.InfoCommandImpl@66edefc4
+java.lang.Throwable
+	at com.accurev.ide.eclipse.actions.NewCommonCommandExecutorContext.exec(NewCommonCommandExecutorContext.java:210)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:129)
+	at com.accurev.ide.eclipse.operations.WorkspaceInformationOperations.getWorkspaceInformation(WorkspaceInformationOperations.java:78)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileBin(SecurityUtils.java:126)
+	at com.accurev.common.utils.SecurityUtils.migrateBinToUser(SecurityUtils.java:151)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileFromUser(SecurityUtils.java:196)
+	at com.accurev.common.utils.SecurityUtils.getServersXml(SecurityUtils.java:353)
+	at com.accurev.common.utils.SecurityUtils.getServers(SecurityUtils.java:329)
+	at com.accurev.ide.eclipse.managers.LoginSessionManager.loadLoginSessions(LoginSessionManager.java:114)
+	at com.accurev.ide.eclipse.AccuRevStartUp.earlyStartup(AccuRevStartUp.java:37)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+15/Feb 16:44:29 WARN  utils.SecurityUtils getAcClientFileBin  - Couldn't determine client bin path.
+15/Feb 16:44:29 ERROR utils.SecurityUtils getServersXml  - 
+java.lang.NullPointerException
+	at com.accurev.common.utils.SecurityUtils.migrateBinToUser(SecurityUtils.java:152)
+	at com.accurev.common.utils.SecurityUtils.getAcClientFileFromUser(SecurityUtils.java:196)
+	at com.accurev.common.utils.SecurityUtils.getServersXml(SecurityUtils.java:353)
+	at com.accurev.common.utils.SecurityUtils.getServers(SecurityUtils.java:329)
+	at com.accurev.ide.eclipse.managers.LoginSessionManager.loadLoginSessions(LoginSessionManager.java:114)
+	at com.accurev.ide.eclipse.AccuRevStartUp.earlyStartup(AccuRevStartUp.java:37)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:87)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+15/Feb 16:44:29 DEBUG managers.LoginSessionManager loadLoginSessions  - No default server, using top of list
+15/Feb 16:44:29 DEBUG managers.LoginSessionManager loadLoginSessions  - Ended
+15/Feb 16:44:29 DEBUG common.CacheManager clearAllCaches  - Started
+15/Feb 16:44:29 DEBUG common.CacheManager clearAllCaches  - Ended
+19/Feb 11:01:50 DEBUG eclipse.EclipsePlugin stop  - Stopping plugin
