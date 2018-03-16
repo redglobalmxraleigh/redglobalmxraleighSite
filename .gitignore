@@ -21,3 +21,7 @@ node_modules jspm_packages
 .npm
 # Optional REPL history
 .node_repl_history
+# Webstorm
+.idea
+#node
+node_modules/
