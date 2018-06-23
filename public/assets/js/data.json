@@ -1,45 +1,52 @@
 ﻿[
   {
-    "name": "Alberto López - Presidente",
+    "name": "Gerardo Santoyo - Presidente y Socio Fundador",
+    "shortname": "Gerardo Santoyo",
+    "photo": "FotosCBandera_Gerardo.png",
+    "reknown": "Se graduó como Ingeniero Electrónico del Instituto Tecnológico y de Estudios Superiores\nde Occidente (ITESO) en Guadalajara y tiene una especialidad en cuidado del medio\nambiente y en seguridad industrial/laboral por la Universidad de Guadalajara.",
+    "bio": "<p>Se graduó como Ingeniero Electrónico del Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO) en Guadalajara y tiene una especialidad en cuidado del medio ambiente y en seguridad industrial/laboral por la Universidad de Guadalajara.</p><p>Laboró para IBM de México por 16 años en su planta de manufactura en Guadalajara, antes de ser transferido al corporativo de IBM en Somers NY en 2001 como gerente de Seguridad e Higiene Industrial para Latinoamérica por 2 años, y posteriormente para la región Asia Pacífico durante 2 años más.</p><p>En 2005 fue transferido a IBM en Carolina del Norte como gerente regional del sureste de Estados Unidos.</p><p>Cofundador en 2008, con su esposa Claudia, del preescolar y kindergarten con inmersión total en español Maracas Montessori en Raleigh.</p><p>Renunció a IBM en 2012 para dedicarse por completo a este proyecto educativo.</p><p>Miembro de la mesa directiva de la Cámara Hispana de Comercio de Carolina del Norte con base en Raleigh</p><p>Líder del proyecto Bilingüismo en el Capítulo Raleigh.</p>"
+  },
+  {
+    "name": "Elsa Jimenez - Vice Presidenta",
+    "shortname": "Elsa Jimenez - Bilingüismo",
+    "photo": "FotosCBandera_Elsa.png",
+    "reknown": "Elsa es originaria de Celaya Guanajuato y desde sus inicios siempre mostro interés en otras culturas y países, lo que la motivo con tal solo 17 años a emprender una aventura como estudiante de Intercambio en Mato Grosso, Brasil.  Durante ese tiempo se centró en aprender  la Lengua Portuguesa, idioma que al día de hoy habla con fluidez.",
+    "bio": "<p>Elsa es originaria de Celaya Guanajuato y desde sus inicios siempre mostro interés en otras culturas y países, lo que la motivo con tal solo 17 años a emprender una aventura como estudiante de Intercambio en Mato Grosso, Brasil.  Durante ese tiempo se centró en aprender  la Lengua Portuguesa, idioma que al día de hoy habla con fluidez. Al regresar a México, Elsa continúo con sus estudios, egresando con honores de la Universidad Iberoamericana Plantel León como Licenciada en Derecho.</p><p>Durante los años de estudiante y posteriores, Elsa se desempeñó en distintos puestos entre los que se encuentran la Presidencia Municipal de León Guanajuato, La Comisión Nacional para la Defensa y Protección de Usuarios de Servicios Financieros (CONDUSEF) y en un despacho Jurídico en Materia Corporativa. En 2008 Elsa decide dejar su empleo en el Despacho Corporativo para emprender una nueva aventura en el Área de Documentación en el Consulado General de México en Raleigh, donde posteriormente colaboró el en Área de Asuntos Comunitarios y como Asistente del Cónsul General.</p><p>Después de años de trabajo en el Consulado, Elsa tomo un cambio de ruta y se incorporó al equipo de trabajo de Atlantic Staffing Consultants, durante este tiempo Elsa se graduó de Strayer University con un posgrado en materia de Recursos Humanos.</p><p>En 2012 Elsa se convierte en miembro asociado de la “American Translators Association” y decide iniciar con English to Spanish Raleigh, donde hasta el día de hoy realiza trabajos de traducción e interpretación en diversas materias, entre sus proyectos destacan la Oficina del Gobernador de Carolina del Norte,  Duke, UNC y Recomendaciones de Organismos Internacionales dirigidas a la Suprema Corte de Justicia dela Nación etc. Como parte de su compromiso social ha colaborado como miembro del Comité Raleigh Vive tu Ciudad la Conferencia Latina que organiza año con año la Ciudad de Raleigh.</p>"
+  },  
+  {
+    "name": "Luisa Scott - Secretaria",
+    "shortname": "Luisa Scott - Socia Activa",
+    "photo": "FotosCBandera_Luisa.png",
+    "reknown": "Es originaria de Tucson, Arizona hija de padres Mexicanos. Vivió gran parte de su niñez en la ciudad de Hermosillo, Sonora. En el año 2004 regreso a Estados Unidos para continuar sus estudios. Durante el 2012 estuvo un semestre de intercambio en la Universidad Adolfo Ibáñez en la ciudad de Viña del Mar, Chile tomando clases de literatura en español.",
+    "bio": "<p>Es originaria de Tucson, Arizona hija de padres Mexicanos. Vivió gran parte de su niñez en la ciudad de Hermosillo, Sonora. En el año 2004 regreso a Estados Unidos para continuar sus estudios. Durante el 2012 estuvo un semestre de intercambio en la Universidad Adolfo Ibáñez en la ciudad de Viña del Mar, Chile tomando clases de literatura en español. En el año 2014 se graduó de Univeristy of Arizona con una doble titulación en Ciencias de la Comunicación y Literatura en Español.</p><p>Luisa es una persona apasionada y dedicada por ayudar a la gente, es por eso que desde una edad muy temprana esta involucrada como voluntaria en organizaciones sin fines de lucro. Recientemente Luisa se incorporó como miembro joven profesional de la organización Make-A-Wish Foundation.</p><p>En el año 2009 Luisa comenzó a trabajar en la organización Sonora Environmental Research Institute, Inc. dedicada a proporcionar investigación imparcial a comunidades desfavorecidas y marginadas para resolver sus desafíos ambientales y construir barrios saludables y seguros. Luisa permaneció en SERI hasta Julio 2013.</p><p>Al terminar sus estudios universitarios en el 2014 Luisa comenzó a trabajar como trabajadora social en un albergue en la ciudad de Tucson, AZ. En el año 2015 con la misma organización Luisa acepto el puesto de encargarse de casos de asistencia social en la costa este del país.</p><p>Actualmente reside con su esposo en Cary, NC.</p>"
+  }, 
+  {
+    "name": "Alberto López - Socio Fundador",
     "shortname": "Alberto López",
     "photo": "FotosCBandera_Alberto.png",
     "reknown": "Se graduó como Licenciado en Administración de Empresas de la Universidad Autónoma de Guadalajara y tiene una Maestría en Administración de Negocios \nInternacionales de Central Michigan University y una Maestría en Administración Avanzada de Proyectos de la George Washington University.                                                                                                                                                                                                                                                                                                                                                                          ",
     "bio": "<p>Se graduó como Licenciado en Administración de Empresas de la Universidad Autónoma de Guadalajara.<p></p>Tiene una Maestría en Administración de Negocios Internacionales de Central Michigan University y una Maestría en Administración Avanzada de Proyectos de George Washington University.<p></p>Tiene certificaciones internacionales como Gerente de Compras, Gerente de Inventarios y Producción (CPIM-APICS) y como Profesional de Administración de Proyectos (PMP-PMI). Después de 15 años en diferentes puestos gerenciales en IBM de México, fue invitado a formar parte de la transformación de la cadena de suministro de IBM a nivel corporativo con base en Raleigh, NC, donde ha vivido los últimos 16 años.<p></p>Actualmente, Alberto está retirado de IBM y es el Gerente Regional de la Cadena de Suministros para la división de Power Grids de ABB Inc. Alberto sigue viviendo en Raleigh, NC con su esposa Elodia y sus hijos Liliana y Alberto Jr. </p>"
   },
   {
-    "name": "Rodolfo Ruiz - Vice Presidente",
+    "name": "Rodolfo Ruiz - Socio Fundador",
     "shortname": "Rodolfo Ruiz",
     "photo": "FotosCBandera_Rodolfo.png",
     "reknown": "Ingeniero en Computación, Universidad Autónoma de Guadalajara\nNacido en Monterrey, NL, creció en la Ciudad de México, Querétaro y Guadalajara. Reside en la ciudad de Raleigh, Carolina del Norte, con su esposa Adriana y sus tres hijos, Paulina, Jacqueline y Alessandro. Aficionado al raquetbol, golf y futbol soccer, seguidor del América, Barcelona y la Selección Mexicana.",
     "bio": "<p>Se graduó de Ingeniero en Computación en la Universidad Autónoma de Guadalajara. Originario de Monterrey, NL, creció en la Ciudad de México, Querétaro y Guadalajara. Inició su carrera como desarrollador de software en IBM Guadalajara y se ha desempeñado como diseñador y arquitecto de soluciones de software. Ha tenido la oportunidad de estar en dos asignaciones internacionales. La primera por 2 años en IBM Raleigh, Carolina del Norte de 1995-1997, al frente del equipo de desarrollo de software.</p><p>En el 2005, como parte de la venta de la División de PCs, pasó a ser parte de Lenovo, ahora la compañía número uno mundial en ventas de computadoras personales. Del 2007 al 2010, fue trasladado a Shenzhen China, con la misión de abrir un laboratorio de desarrollo de software, el cual cuenta ahora con más de 350 ingenieros.</p>  <p>Actualmente funge como Director de Operaciones y estrategia, en Lenovo, Raleigh NC, al frente de 4 laboratorios de software, en Beijing y Shenzhen, China; Yokohama, Japón y Morrisville, Carolina del Norte.    </p><p>Reside en la ciudad de Raleigh, Carolina del Norte, con su esposa Adriana y sus tres hijos, Paulina, Jacqueline y Alessandro. Aficionado al raquetbol, golf y futbol soccer, seguidor del América, Barcelona y la Selección Mexicana.</p>"
   },
   {
-    "name": "Marco Domíngez - Tesorero",
+    "name": "Marco Domíngez - Socio Fundador",
     "shortname": "Marco Domínguez",
     "photo": "FotosCBandera_Marco.png",
     "reknown": "Originario de Córdoba, Veracruz donde realizó sus estudios titulándose como Licenciado\nen Contaduría Pública en la Universidad Del Valle de Orizaba. En el año 2000 se mudó a la\nciudad de Tijuana Baja California donde desempeñó diversos roles en el área financiera,\ncomo Asistente de Finanzas, Contador General y Analista Financiero.\n Completó una especialidad en Costos Industriales en la Universidad Autónoma de Baja California.",
     "bio": "<p>Originario de Córdoba, Veracruz  donde realizó sus estudios titulándose como Licenciado en Contaduría Pública en la Universidad Del Valle de Orizaba. En el año 2000 se mudó a la ciudad de Tijuana Baja California donde desempeñó diversos roles en el área financiera, como Asistente de Finanzas, Contador General y Analista Financiero.</p><p>Completó una especialidad en Costos Industriales en la Universidad Autónoma de Baja California. En 2010 recibió una invitación por parte de Teleflex Medical Inc. para incorporarse al equipo de Tecnología Industrial como Analista de SAP en la ciudad de Raleigh, Carolina del Norte donde reside actualmente con su esposa y dos hijas. </p>"
   },  
   {
-    "name": "Gerardo Santoyo - Socio Fundador",
-    "shortname": "Gerardo Santoyo",
-    "photo": "FotosCBandera_Gerardo.png",
-    "reknown": "Se graduó como Ingeniero Electrónico del Instituto Tecnológico y de Estudios Superiores\nde Occidente (ITESO) en Guadalajara y tiene una especialidad en cuidado del medio\nambiente y en seguridad industrial/laboral por la Universidad de Guadalajara.",
-    "bio": "<p>Se graduó como Ingeniero Electrónico del Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO) en Guadalajara y tiene una especialidad en cuidado del medio ambiente y en seguridad industrial/laboral por la Universidad de Guadalajara.</p><p>Laboró para IBM de México por 16 años en su planta de manufactura en Guadalajara, antes de ser transferido al corporativo de IBM en Somers NY en 2001 como gerente de Seguridad e Higiene Industrial para Latinoamérica por 2 años, y posteriormente para la región Asia Pacífico durante 2 años más.</p><p>En 2005 fue transferido a IBM en Carolina del Norte como gerente regional del sureste de Estados Unidos.</p><p>Cofundador en 2008, con su esposa Claudia, del preescolar y kindergarten con inmersión total en español Maracas Montessori en Raleigh.</p><p>Renunció a IBM en 2012 para dedicarse por completo a este proyecto educativo.</p>"
-  },
-  {
-    "name": "Jorge Ramos - Tecnología",
+    "name": "Jorge Ramos - Socio Fundador y Tecnología",
     "shortname": "Jorge Ramos",
     "photo": "FotosCBandera_Jorge.png",
     "reknown": "Se graduó como Ingeniero en Electrónica del Instituto Tecnológico de Estudios Superiores\nde Occidente y tiene una Maestría en Ciencias Computacionales de la Houston Clear Lake\nUniversity. Tiene la certificación Profesional de Administración de Proyectos (PMP-PMI).",
     "bio": "<p>Se graduó como Ingeniero en Electrónica del Instituto Tecnológico de Estudios Superiores de Occidente y tiene una Maestría en Ciencias Computacionales de la Houston Clear Lake University. Tiene la certificación Profesional de Administración de Proyectos (PMP-PMI).</p><p>Inició su carrera en 1988 en IBM de México, desarrollando software para el sistema operativo del iSeries (AS/400). Después de 15 años en diferentes puestos gerenciales en IBM de México, decidió salir de IBM y abrir las oficinas en Guadalajara de Emergys Mexico, empresa de negocio de servicios de consultoría en IT y desarrollo de software aplicativo para empresas.</p><p>En el 2007 se incorporó al cuerpo directivo de Emergys Corporation con base en Morrisville, NC. En el 2015 Jorge regresó a IBM para tomar la gerencia de desarrollo de aplicaciones corporativas tanto para empleados, como para clientes y asociados de negocios de IBM.</p><p>Jorge ha vivido en Apex, NC los últimos 9 años con su esposa Mireya y sus hijos Jorge Jr y Alina. </p>"
-  },
-  {
-    "name": "Carolina Vera Reséndiz - Socia Fundadora",
-    "shortname": "Carolina Vera Reséndiz - Socia Fundadora",
-    "photo": "FotosCBandera_Monica.png",
-    "reknown": "Es originaria de la Ciudad de México, egresada de la Facultad de Odontología de Universidad Nacional Autónoma de México (UNAM) como Cirujano Dentista con sub especialidades en Prótesis y Odontología Restaurativa Estética; comenzó su carrera laboral a corta edad enfocándose en la comercialización, distribución y venta de equipo médico y de laboratorio creando su propia empresa, con el objetivo de sustentar sus estudios posteriores en el extranjero.",
-    "bio": "<p>Es originaria de la Ciudad de México, egresada de la Facultad de Odontología de Universidad Nacional Autónoma de México (UNAM) como Cirujano Dentista con sub especialidades en Prótesis y Odontología Restaurativa Estética; comenzó su carrera laboral a corta edad enfocándose en la comercialización, distribución y venta de equipo médico y de laboratorio creando su propia empresa, con el objetivo de sustentar sus estudios posteriores en el extranjero. Llego a los Estados Unidos para realizar la Maestría en Ciencias Protésicas en la Universidad de Carolina del Norte (UNC) donde posteriormente realizo dos subespecialidades más en el área de Implantes Dentales y Enseñanza. Carolina, decidió regresar a la Universidad para obtener su título como Cirujano Dentista en los Estados Unidos y posteriormente inicio su carrera académica como Profesora en el Departamento de Prótesis e Investigadora en el Centro de Dolor, Investigación e Innovación en la Universidad de Carolina del Norte en Chapel Hill. Carolina ha publicado artículos en prestigiadas revistas de Investigación Odontológica y enfocado su área de investigación a la implantología oral y los trastornos neurosensoriales.</p><p>Actualmente, es la líder del “Proyecto México de la Universidad de Carolina del Norte”, esta iniciativa esta diseñada para aumentar la difusión de México en el extranjero y crear un intercambio bicultural entre México y Estados Unidos, además de promover la ayuda social en la comunidad odontológica y medica en general. Este programa es coordinado para proporcionar una amplia exposición de los aspectos sociales, sistemas e institutos de salud, recursos profesionales, culturales y educativos con los que cuenta el país. Los alumnos reciben conferencias en áreas odontológicas y/o medicas especializadas por profesionales calificados en el área y recorren las instituciones guiados por odontólogos o medicos  voluntarios en este proyecto. Además del Proyecto México, Carolina es Co-fundadora de el fondo de beneficiencia \"Dr. Glenn E. y Mary- Ann Minsley para el cuidado y atención protésica maxilofacial\". Este programa se creó con el fin de proporcionar tratamiento reconstructivo/protésico Maxilofacial a pacientes que están funcionalmente discapacitados y cosméticamente desfigurados debido a cánceres en cabeza y cuello, trastornos genéticos o por medio de una tragedia personal. El dinero en este fondo es utilizado para comprar los equipos y adquirir los componentes protésicos necesarios para la rehabilitación estética y funcional de pacientes con bajos recursos económicos.</p>"
   },
   {
     "name": "Oscar Pérez Ovilla - Socio Fundador",
@@ -49,29 +56,22 @@
     "bio": "<p>Originario del estado de Chiapas. Estudió la Licenciatura en Ingeniería Química en el Instituto Tecnológico de Tuxtla Gutiérrez, la Maestría en Ingeniería en Hidráulica Ambiental en la Universidad Autónoma de Chiapas y posteriormente realizó un Doctorado y un Postdoctorado en el Departamento de Ingeniería Agrícola y Biológica de la Universidad de Florida.</p><p>Durante su estudios doctorales, fue también Presidente de la Asociación Estudiantil Mexicans in Gainesville y en el 2009 obtuvo el “Certificate of Excellence for Outstanding International Student” por parte del Colegio de Ingeniería de la Universidad de Florida.</p><p>Ha participado en múltiples ponencias internacionales de la American Society of Agricultural and Biological Engineers y la American Chemical Society, siempre enfocado en la mejora y cuidado del medio ambiente.</p><p>Desde el 2012 se integró como modelador a la división de Seguridad Ambiental de Bayer en el Research Triangle Park de Carolina del Norte, siendo en único latino dentro del grupo de modeladores, situación que le ha permitido apoyar dentro de su área de especialización a otras regiones de Latinoamérica. Oscar, su esposa Paola e hijos Paulette, Ángel y Mia radican desde hace 4 años en la ciudad de Raleigh.</p>"
   },
   {
-    "name": "Luisa Scott - Socia",
-    "shortname": "Luisa Scott - Socia Activa",
-    "photo": "FotosCBandera_Luisa.png",
-    "reknown": "Es originaria de Tucson, Arizona hija de padres Mexicanos. Vivió gran parte de su niñez en la ciudad de Hermosillo, Sonora. En el año 2004 regreso a Estados Unidos para continuar sus estudios. Durante el 2012 estuvo un semestre de intercambio en la Universidad Adolfo Ibáñez en la ciudad de Viña del Mar, Chile tomando clases de literatura en español.",
-    "bio": "<p>Es originaria de Tucson, Arizona hija de padres Mexicanos. Vivió gran parte de su niñez en la ciudad de Hermosillo, Sonora. En el año 2004 regreso a Estados Unidos para continuar sus estudios. Durante el 2012 estuvo un semestre de intercambio en la Universidad Adolfo Ibáñez en la ciudad de Viña del Mar, Chile tomando clases de literatura en español. En el año 2014 se graduó de Univeristy of Arizona con una doble titulación en Ciencias de la Comunicación y Literatura en Español.</p><p>Luisa es una persona apasionada y dedicada por ayudar a la gente, es por eso que desde una edad muy temprana esta involucrada como voluntaria en organizaciones sin fines de lucro. Recientemente Luisa se incorporó como miembro joven profesional de la organización Make-A-Wish Foundation.</p><p>En el año 2009 Luisa comenzó a trabajar en la organización Sonora Environmental Research Institute, Inc. dedicada a proporcionar investigación imparcial a comunidades desfavorecidas y marginadas para resolver sus desafíos ambientales y construir barrios saludables y seguros. Luisa permaneció en SERI hasta Julio 2013.</p><p>Al terminar sus estudios universitarios en el 2014 Luisa comenzó a trabajar como trabajadora social en un albergue en la ciudad de Tucson, AZ. En el año 2015 con la misma organización Luisa acepto el puesto de encargarse de casos de asistencia social en la costa este del país.</p><p>Actualmente reside con su esposo en Cary, NC.</p>"
-  },    
+    "name": "Carolina Vera Reséndiz - Socia Fundadora",
+    "shortname": "Carolina Vera Reséndiz - Socia Fundadora",
+    "photo": "FotosCBandera_Monica.png",
+    "reknown": "Es originaria de la Ciudad de México, egresada de la Facultad de Odontología de Universidad Nacional Autónoma de México (UNAM) como Cirujano Dentista con sub especialidades en Prótesis y Odontología Restaurativa Estética; comenzó su carrera laboral a corta edad enfocándose en la comercialización, distribución y venta de equipo médico y de laboratorio creando su propia empresa, con el objetivo de sustentar sus estudios posteriores en el extranjero.",
+    "bio": "<p>Es originaria de la Ciudad de México, egresada de la Facultad de Odontología de Universidad Nacional Autónoma de México (UNAM) como Cirujano Dentista con sub especialidades en Prótesis y Odontología Restaurativa Estética; comenzó su carrera laboral a corta edad enfocándose en la comercialización, distribución y venta de equipo médico y de laboratorio creando su propia empresa, con el objetivo de sustentar sus estudios posteriores en el extranjero. Llego a los Estados Unidos para realizar la Maestría en Ciencias Protésicas en la Universidad de Carolina del Norte (UNC) donde posteriormente realizo dos subespecialidades más en el área de Implantes Dentales y Enseñanza. Carolina, decidió regresar a la Universidad para obtener su título como Cirujano Dentista en los Estados Unidos y posteriormente inicio su carrera académica como Profesora en el Departamento de Prótesis e Investigadora en el Centro de Dolor, Investigación e Innovación en la Universidad de Carolina del Norte en Chapel Hill. Carolina ha publicado artículos en prestigiadas revistas de Investigación Odontológica y enfocado su área de investigación a la implantología oral y los trastornos neurosensoriales.</p><p>Actualmente, es la líder del “Proyecto México de la Universidad de Carolina del Norte”, esta iniciativa esta diseñada para aumentar la difusión de México en el extranjero y crear un intercambio bicultural entre México y Estados Unidos, además de promover la ayuda social en la comunidad odontológica y medica en general. Este programa es coordinado para proporcionar una amplia exposición de los aspectos sociales, sistemas e institutos de salud, recursos profesionales, culturales y educativos con los que cuenta el país. Los alumnos reciben conferencias en áreas odontológicas y/o medicas especializadas por profesionales calificados en el área y recorren las instituciones guiados por odontólogos o medicos  voluntarios en este proyecto. Además del Proyecto México, Carolina es Co-fundadora de el fondo de beneficiencia \"Dr. Glenn E. y Mary- Ann Minsley para el cuidado y atención protésica maxilofacial\". Este programa se creó con el fin de proporcionar tratamiento reconstructivo/protésico Maxilofacial a pacientes que están funcionalmente discapacitados y cosméticamente desfigurados debido a cánceres en cabeza y cuello, trastornos genéticos o por medio de una tragedia personal. El dinero en este fondo es utilizado para comprar los equipos y adquirir los componentes protésicos necesarios para la rehabilitación estética y funcional de pacientes con bajos recursos económicos.</p>"
+  },  
   {
-    "name": "Elsa Jimenez - Socia Bilingüismo",
-    "shortname": "Elsa Jimenez - Bilingüismo",
-    "photo": "FotosCBandera_Elsa.png",
-    "reknown": "Elsa es originaria de Celaya Guanajuato y desde sus inicios siempre mostro interés en otras culturas y países, lo que la motivo con tal solo 17 años a emprender una aventura como estudiante de Intercambio en Mato Grosso, Brasil.  Durante ese tiempo se centró en aprender  la Lengua Portuguesa, idioma que al día de hoy habla con fluidez. Al regresar a México, Elsa continúo con sus estudios, egresando con honores de la Universidad Iberoamericana Plantel León como Licenciada en Derecho. ",
-    "bio": "<p>Elsa es originaria de Celaya Guanajuato y desde sus inicios siempre mostro interés en otras culturas y países, lo que la motivo con tal solo 17 años a emprender una aventura como estudiante de Intercambio en Mato Grosso, Brasil.  Durante ese tiempo se centró en aprender  la Lengua Portuguesa, idioma que al día de hoy habla con fluidez. Al regresar a México, Elsa continúo con sus estudios, egresando con honores de la Universidad Iberoamericana Plantel León como Licenciada en Derecho.</p><p>Durante los años de estudiante y posteriores, Elsa se desempeñó en distintos puestos entre los que se encuentran la Presidencia Municipal de León Guanajuato, La Comisión Nacional para la Defensa y Protección de Usuarios de Servicios Financieros (CONDUSEF) y en un despacho Jurídico en Materia Corporativa. En 2008 Elsa decide dejar su empleo en el Despacho Corporativo para emprender una nueva aventura en el Área de Documentación en el Consulado General de México en Raleigh, donde posteriormente colaboró el en Área de Asuntos Comunitarios y como Asistente del Cónsul General.</p><p>Después de años de trabajo en el Consulado, Elsa tomo un cambio de ruta y se incorporó al equipo de trabajo de Atlantic Staffing Consultants, durante este tiempo Elsa se graduó de Strayer University con un posgrado en materia de Recursos Humanos.</p><p>En 2012 Elsa se convierte en miembro asociado de la “American Translators Association” y decide iniciar con English to Spanish Raleigh, donde hasta el día de hoy realiza trabajos de traducción e interpretación en diversas materias, entre sus proyectos destacan la Oficina del Gobernador de Carolina del Norte,  Duke, UNC y Recomendaciones de Organismos Internacionales dirigidas a la Suprema Corte de Justicia dela Nación etc. Como parte de su compromiso social ha colaborado como miembro del Comité Raleigh Vive tu Ciudad la Conferencia Latina que organiza año con año la Ciudad de Raleigh.</p>"
-  },
-  {
-    "name": "Alfredo García - Socio Fundador",
+    "name": "Alfredo García - Tesorero",
     "shortname": "Alfredo García - Socio Activo",
     "photo": "FotosCBandera_Alfredo.png",
     "reknown": "Se graduó como Ingeniero en Sistemas Computacionales del Instituto Tecnológico y de Estudios Superiores de Monterrey y tiene Maestría en Administración de Empresas del mismo instituto.\n Cuenta con certificaciones de APICS en Administración de Producción e Inventarios (APICS CPIM) y como Profesional de Cadena de Suministros (APICS CSCP).",
     "bio": "<p>Se graduó como Ingeniero en Sistemas Computacionales del Instituto Tecnológico y de Estudios Superiores de Monterrey y tiene Maestría en Administración de Empresas del mismo instituto. Cuenta con certificaciones de APICS en Administración de Producción e Inventarios (APICS CPIM) y como Profesional de Cadena de Suministros (APICS CSCP).</p><p>Inició su carrera en 1983 en Caterpillar México como analista de sistemas.  Después de 12 años de progreso a través de distintos puestos gerenciales en el área de informática y administración de la cadena de suministros, fue transferido a las oficinas corporativas de Caterpillar Inc. en Peoria, Illinois, como Gerente de Planeación Estratégica; posteriormente se mudó a Raleigh, North Carolina, para unirse a la División de Productos para la Construcción (BCP) de Caterpillar, donde ha desempeñado diferentes puestos gerenciales en las áreas de logística, ingeniería, calidad, estrategia y 6 Sigma.</p><p>Actualmente es Gerente de Cadena de Suministros de esa división. Alfredo ha vivido los últimos 18 años en Cary, NC con su esposa Susana y sus hijos Karla y Alfredo.  Karla se graduó como doctora en medicina y actualmente vive en Chicago. Alfredo se graduó en Administración de Negocios de la Universidad de Carolina del Norte Chapel Hill y actualmente vive en Brooklyn, NY.</p>"
-  },
+  },   
   {
     "name": "Juan De la Maza  - Socio",
-    "shortname": "Juan De la Maza - Socio Activo",
+    "shortname": "Juan De la Maza - Socio",
     "photo": "FotosCBandera_Juan.png",
     "reknown": "Originario de León, Guanajuato. Se graduó como Ingeniero Industrial del Instituto Tecnológico de San Luis Potosi y posteriormente cursó la Maestría de Administración de Negocios en la Universidad Autónoma de San Luis Potosí.",
     "bio": "<p>Originario de León, Guanajuato. Se graduó como Ingeniero Industrial del Instituto Tecnológico de San Luis Potosi y posteriormente cursó la Maestría de Administración de Negocios en la Universidad Autónoma de San Luis Potosí.</p><p>Inició su Carrera Profesional en el año 2002 en San Luis Potosí, donde comenzó su desarrollo en el área de Compras, Materiales y Logística, principalmente en el segmento de la industria automotriz. Desde el año  2009 trabaja para ABB Inc., empresa que le permitió tomar una asignación en Estados Unidos. Actualmente, después de ocupar otros cargos directivos dentro de ABB en México y Estados Unidos, Juan es Gerente Global de la Cadena de Suministro para el negocio de Transformadores de Distribución.</p><p>En el año 2017, después de vivir un par de años en Cleveland Ohio, Juan regresó a vivir en Raleigh N.C. junto con su esposa Ana Silvia y sus dos hijos, Jimena y Andrés.</p>"
@@ -81,6 +81,83 @@
     "shortname": "Enrique Muñiz - Tecnología",
     "photo": "FotosCBandera_Enrique.png",
     "reknown": "Nacido en Guadalajara, Jalisco, graduado como Ingeniero en Comunicaciones y Electrónica de la Universidad de Guadalajara y con maestría en Ciencias de la Computación del Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM).\n Actualmente labora para la empresa Toshiba Global Commerce Solutions en Raleigh, NC como Ingeniero en Desarrollo de Software para aplicaciones de puntos de venta para supermercados, restaurantes y tiendas departamentales.",
-    "bio": "<p>Nacido en Guadalajara, Jalisco, graduado como Ingeniero en Comunicaciones y Electrónica de la Universidad de Guadalajara y con maestría en Ciencias de la Computación del Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM).</p><p>Inició su carrera profesional en IBM de México Campus Guadalajara en 1995, desarrollando software para el sistema operativo del iSeries (AS/400). Posteriormente fue asignado en 2002 a la región del Research Triangle Park en NC,  con la misión de crear un grupo de desarrollo y soporte en IBM Guadalajara para el sistema operativo OS4690 que es la base de las aplicaciones de punto de venta para supermercados, restaurantes y tiendas departamentales.</p><p>A partir de entonces y luego de varios años trabajando y viajando como líder técnico de proyectos entre Raleigh y Guadalajara y una vez consolidando un laboratorio con más de 50 ingenieros en el laboratorio de Guadalajara,  decidió junto con su familia quedarse a radicar en la ciudad de Raleigh NC, desde el año 2007. Desde entonces ha continuado trabajando en Raleigh, NC en la misma área de desarrollo de software para puntos de venta.</p><p>Actualmente lo hace como Ingeniero de Desarrollo Senior para la empresa Toshiba Global Commerce Solutions, después de que esta le adquirió dicha división a IBM en el año 2012. Luis Enrique vive en Raleigh, NC con su esposa Vicky y sus hijos Elber - estudiante en UNC Chapel Hill - y Andrea -estudiante en Leesville Road High School- y sus mascotas caninas Astro y Misty.</p>"
-  }
+    "bio": "<p>Nacido en Guadalajara, Jalisco, graduado como Ingeniero en Comunicaciones y Electrónica de la Universidad de Guadalajara y con maestría en Ciencias de la Computación del Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM).</p><p>Inició su carrera profesional en IBM de México Campus Guadalajara en 1995, desarrollando software para el sistema operativo del iSeries (AS/400). Posteriormente fue asignado en 2002 a la región del Research Triangle Park en NC,  con la misión de crear un grupo de desarrollo y soporte en IBM Guadalajara para el sistema operativo OS4690 que es la base de las aplicaciones de punto de venta para supermercados, restaurantes y tiendas departamentales.</p><p>A partir de entonces y luego de varios años trabajando y viajando como líder técnico de proyectos entre Raleigh y Guadalajara y una vez consolidando un laboratorio con más de 50 ingenieros en el laboratorio de Guadalajara,  decidió junto con su familia quedarse a radicar en la ciudad de Raleigh NC, desde el año 2007. Desde entonces ha continuado trabajando en Raleigh, NC en la misma área de desarrollo de software para puntos de venta.</p><p>Actualmente labora como Ingeniero de Desarrollo de Software Senior para la empresa Toshiba Global Commerce Solutions, después de que esta adquirió dicha división a IBM en el año 2012. Luis Enrique vive en Raleigh, NC con su esposa Vicky y sus hijos Elber - estudiante en UNC Chapel Hill - y Andrea -estudiante en Leesville Road High School- y sus mascotas caninas Astro y Misty.</p>"
+  },   
+  {
+    "name": "Marco A. Zárate - Socio",
+    "shortname": "Marco A. Zárate - Socio",
+    "photo": "FotosCBandera_MarcoZ.png",
+    "reknown": "Marco A. Zárate es Presidente y Co-fundador de la Sociedad de Profesionales Hispanos de Carolina del Norte.",
+    "bio": "<p>Marco A. Zárate es Presidente y Co-fundador de la Sociedad de Profesionales Hispanos de Carolina del Norte. Él tiene un Licenciatura en Ingeniería Química y una Maestría en Ingeniería Industrial. Nació en México y ha vivido en Carolina del Norte desde 1990.</p><p>El Sr. Zárate tiene dos hijos, Christian y Carolina. Su esposa Susan es una maestra de Inglés como segunda lengua en las escuelas públicas del condado de Wake. Marco creció con la creencia de que la educación es un medio para tener éxito en la vida.</p>"
+  },
+  {
+    "name": "Oscar Gómez - Socio",
+    "shortname": "Oscar Gómez - Socio",
+    "photo": "FotosCBandera_OscarG.png",
+    "reknown": "Oscar Gómez es Director Financiero en Lenovo para el área de North America Consumer, SMB & Consolidation.",
+    "bio": "<p>Oscar Gómez es Director Financiero en Lenovo para el área de North America Consumer, SMB & Consolidation.</p>"
+  },
+  {
+    "name": "Guillermo Solares - Socio",
+    "shortname": "Guillermo Solares - Socio",
+    "photo": "FotosCBandera_Guillermo.png",
+    "reknown": "Guillermo Solares labora para la empresa Credit Suisse con el puesto de Capacity and Inventory Manager.",
+    "bio": "<p>Guillermo Solares labora para la empresa Credit Suisse con el puesto de Capacity and Inventory Manager.</p>"
+  },
+  {
+    "name": "Esteban Linares - Socio",
+    "shortname": "Esteban Linares - Socio",
+    "photo": "FotosCBandera_EstebanL.png",
+    "reknown": "Esteban Linares labora para la empresa ABB Inc como Ingeniero de proyecto en sistemas de energía eléctrica.",
+    "bio": "<p>Esteban Linares labora para la empresa ABB Inc como Ingeniero de proyecto en sistemas de energía eléctrica.</p>"
+  },
+  {
+    "name": "Jorge Montellano - Socio",
+    "shortname": "Jorge Montellano - Socio",
+    "photo": "FotosCBandera_JorgeM.png",
+    "reknown": "Jorge Montellano labora para la empresa GNK Driveline en el área de compras.",
+    "bio": "<p>Jorge Montellano labora para la empresa GNK Driveline en el área de compras.</p>"
+  },
+  {
+    "name": "Luis Elizondo - Socio",
+    "shortname": "Luis Elizondo - Socio",
+    "photo": "FotosCBandera_LuisE.png",
+    "reknown": "Luis Elizondo labora para la empresa Cisco en su Centro de Excelencia de Transformación Digital de Procesos.",
+    "bio": "<p>Luis Elizondo labora para la empresa Cisco en su Centro de Excelencia de Transformación Digital de Procesos.</p>"
+  },
+  {
+    "name": "Erick Ocampo - Socio",
+    "shortname": "Erick Ocampo - Socio",
+    "photo": "FotosCBandera_ErickO.png",
+    "reknown": "Erick Ocampo trabaja para la empresa Plexus en el área Customer Manager Health & Life Science.",
+    "bio": "<p>Erick Ocampo trabaja para la empresa Plexus en el área Customer Manager Health & Life Science.</p>"
+  },  
+  {
+    "name": "María Rosa Rangel - Socia",
+    "shortname": "María Rosa Rangel - Socia",
+    "photo": "FotosCBandera_MariaRosa.png",
+    "reknown": "María Rosa Rangel es presidente de la Junta Directiva de la Sociedad de Profesionales Hispanos de Carolina del Norte.",
+    "bio": "<p>María Rosa Rangel es presidente de la Junta Directiva de la Sociedad de Profesionales Hispanos de Carolina del Norte.</p>"
+  },
+  {
+    "name": "Marcela Torres-Cervantes - Socia",
+    "shortname": "Marcela Torres-Cervantes - Socia",
+    "photo": "FotosCBandera_MarcelaT.png",
+    "reknown": "Marcela Torres-Cervantes es Director Asistente de Alcance Comunitario y Compromiso dentro de Asuntos Estudiantiles Multiculturales en la Universidad de NC State.",
+    "bio": "<p>Marcela Torres-Cervantes es Director Asistente de Alcance Comunitario y Compromiso dentro de Asuntos Estudiantiles Multiculturales en la Universidad de NC State.</p>"
+  },
+  {
+    "name": "Ivonne Chirino-Klevans - Socia",
+    "shortname": "Ivonne Chirino-Klevans - Socia",
+    "photo": "FotosCBandera_Ivonne.png",
+    "reknown": "Ivonne Chirino-Klevans es Directora Internacional de Educación a Distancia en la Universidad Estatal de Carolina del Norte.",
+    "bio": "<p>Ivonne Chirino-Klevans es Directora Internacional de Educación a Distancia en la Universidad Estatal de Carolina del Norte.</p>"
+  },
+  {
+    "name": "Benjamín Dávalos - Socio Estudiante",
+    "shortname": "Benjamín Dávalos - Socio Estudiante",
+    "photo": "FotosCBandera_Benjamin.png",
+    "reknown": "Benjamín Dávalos es estudiante en la Universidad de Carlina del Norte en Chapel Hill, desempeñándose como pasante de Ventas y Desarrollo de Negocios en Lenovo. Benjamin es tambien miembro ejecutivo, instructor y líder coordinador de familias de la N.C. Scholar's Latino Initiative (N.C. Sli).",
+    "bio": "<p>Benjamín Dávalos Benjamín Dávalos es estudiante en la Universidad de Carlina del Norte en Chapel Hill, desempeñándose como pasante de Ventas y Desarrollo de Negocios en Lenovo. Benjamin es tambien miembro ejecutivo, instructor y líder coordinador de familias de la N.C. Scholar's Latino Initiative (N.C. Sli).</p>"
+  }  
 ]
