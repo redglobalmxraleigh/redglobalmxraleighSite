@@ -102,3 +102,6 @@ java.lang.NullPointerException
 15/Feb 16:44:29 DEBUG common.CacheManager clearAllCaches  - Started
 15/Feb 16:44:29 DEBUG common.CacheManager clearAllCaches  - Ended
 19/Feb 11:01:50 DEBUG eclipse.EclipsePlugin stop  - Stopping plugin
+11/Mar 17:30:17 INFO  eclipse.EclipsePlugin configureLog  - Logging configured.
+11/Mar 17:30:17 DEBUG eclipse.EclipsePlugin runInUIThread  - AccuRev Plugin Started
+11/Mar 18:17:45 DEBUG eclipse.EclipsePlugin stop  - Stopping plugin

@@ -31,20 +31,34 @@ myApp.config(['$routeProvider', function($routeProvider){
             controller: 'DiaDeLaCienciaController'
         }).
         when('/proyectomexico',{
-            templateUrl: 'partials/actividades/proyectoMexico.html',
+            templateUrl: 'partials/proyectos/proyectoMexico.html',
             controller: 'ProyectoMexicoController'
         }).
         when('/bilinguismo',{
-            templateUrl: 'partials/actividades/bilinguismo.html',
+            templateUrl: 'partials/proyectos/bilinguismo.html',
             controller: 'BilinguismoController'
+        }).
+        when('/mentorias',{
+            templateUrl: 'partials/proyectos/mentorias.html',
+            controller: 'MentoriasController'
+        }).
+        when('/becared-ncshp',{
+            templateUrl: 'partials/proyectos/becared-ncshp.html',
+            controller: 'BecaRedController'
+        }).
+        when('/ciudadeshermanas',{
+            templateUrl: 'partials/proyectos/ciudadeshermanas.html',
+            controller: 'CiudadesHermanasController'
         }).
         when('/proyectos',{
             templateUrl: 'partials/proyectos.html',
             controller: 'ProyectosController'
-        }).when('/ciencias',{
+        }).
+        when('/ciencias',{
             templateUrl: 'partials/proyectos/ciencias.html',
             controller: 'CienciaController'
-        }).when('/enlacesocial',{
+        }).
+        when('/enlacesocial',{
             templateUrl: 'partials/proyectos/enlaceSocial.html',
             controller: 'EnlaceSocialController'
         }).

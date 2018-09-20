@@ -48,7 +48,28 @@ mainModule.controller('BilinguismoController', ['$scope', function($scope) {
     $("#header").addClass("header-blog");
     $("#home").removeClass("active");
     $("#contact a").addClass("active nav-item");
-    document.title = 'Proyecto BILINGÜISMO 2016';
+    document.title = 'Proyecto BILINGÜISMO 2018';
+}]);
+mainModule.controller('MentoriasController', ['$scope', function($scope) {
+    $("#app-body").addClass("blog-page header-blog");
+    $("#header").addClass("header-blog");
+    $("#home").removeClass("active");
+    $("#contact a").addClass("active nav-item");
+    document.title = 'Proyecto Mentorias';
+}]);
+mainModule.controller('BecaRedController', ['$scope', function($scope) {
+    $("#app-body").addClass("blog-page header-blog");
+    $("#header").addClass("header-blog");
+    $("#home").removeClass("active");
+    $("#contact a").addClass("active nav-item");
+    document.title = 'Proyecto Beca Red-NCSHP';
+}]);
+mainModule.controller('CiudadesHermanasController', ['$scope', function($scope) {
+    $("#app-body").addClass("blog-page header-blog");
+    $("#header").addClass("header-blog");
+    $("#home").removeClass("active");
+    $("#contact a").addClass("active nav-item");
+    document.title = 'Proyecto Ciudades Hermanas';
 }]);
 mainModule.controller('ProyectosController', ['$scope', function($scope) {
     $("#app-body").addClass("blog-page header-blog");
