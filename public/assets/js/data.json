@@ -112,6 +112,13 @@
     "bio": "<p>Esteban Linares labora para la empresa ABB Inc como Ingeniero de proyecto en sistemas de energía eléctrica.</p>"
   },
   {
+    "name": "Jorge Montellano - Socio",
+    "shortname": "Jorge Montellano - Socio",
+    "photo": "FotosCBandera_JorgeM.png",
+    "reknown": "Jorge Montellano labora para la empresa GNK Driveline en el área de compras.",
+    "bio": "<p>Jorge Montellano labora para la empresa GNK Driveline en el área de compras.</p>"
+  },
+  {
     "name": "Luis Elizondo - Socio",
     "shortname": "Luis Elizondo - Socio",
     "photo": "FotosCBandera_LuisE.png",
@@ -133,18 +140,18 @@
     "bio": "<p>María Rosa Rangel es presidente de la Junta Directiva de la Sociedad de Profesionales Hispanos de Carolina del Norte.</p>"
   },
   {
-    "name": "Ivonne Chirino-Klevans - Socia",
-    "shortname": "Ivonne Chirino-Klevans - Socia",
-    "photo": "FotosCBandera_Ivonne.png",
-    "reknown": "Ivonne Chirino-Klevans es Directora Internacional de Educación a Distancia en la Universidad Estatal de Carolina del Norte.",
-    "bio": "<p>Ivonne Chirino-Klevans es Directora Internacional de Educación a Distancia en la Universidad Estatal de Carolina del Norte.</p>"
-  },
-  {
     "name": "Marcela Torres-Cervantes - Socia",
     "shortname": "Marcela Torres-Cervantes - Socia",
     "photo": "FotosCBandera_MarcelaT.png",
     "reknown": "Marcela Torres-Cervantes es Director Asistente de Alcance Comunitario y Compromiso dentro de Asuntos Estudiantiles Multiculturales en la Universidad de NC State.",
     "bio": "<p>Marcela Torres-Cervantes es Director Asistente de Alcance Comunitario y Compromiso dentro de Asuntos Estudiantiles Multiculturales en la Universidad de NC State.</p>"
+  },
+  {
+    "name": "Ivonne Chirino-Klevans - Socia",
+    "shortname": "Ivonne Chirino-Klevans - Socia",
+    "photo": "FotosCBandera_Ivonne.png",
+    "reknown": "Ivonne Chirino-Klevans es Directora Internacional de Educación a Distancia en la Universidad Estatal de Carolina del Norte.",
+    "bio": "<p>Ivonne Chirino-Klevans es Directora Internacional de Educación a Distancia en la Universidad Estatal de Carolina del Norte.</p>"
   },
   {
     "name": "Benjamín Dávalos - Socio Estudiante",
