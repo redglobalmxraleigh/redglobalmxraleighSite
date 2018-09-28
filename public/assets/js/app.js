@@ -22,12 +22,12 @@ myApp.config(['$routeProvider', function($routeProvider){
             templateUrl: 'partials/socio.html',
             controller: 'SocioController'
         }).
-        when('/actividades',{
-            templateUrl: 'partials/actividades.html',
-            controller: 'ActividadesController'
+        when('/pilares',{
+            templateUrl: 'partials/pilares.html',
+            controller: 'PilaresController'
         }).
         when('/diadelaciencia',{
-            templateUrl: 'partials/actividades/diaDeLaCiencia.html',
+            templateUrl: 'partials/proyectos/diaDeLaCiencia.html',
             controller: 'DiaDeLaCienciaController'
         }).
         when('/proyectomexico',{
