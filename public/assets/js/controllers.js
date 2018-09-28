@@ -21,12 +21,12 @@ mainModule.controller('ConocenosController', ['$scope', '$http', function($scope
         document.title = 'Conocenos';
     });
 }]);
-mainModule.controller('ActividadesController', ['$scope', function($scope) {
+mainModule.controller('PilaresController', ['$scope', function($scope) {
         $("#app-body").addClass("blog-page header-blog");
         $("#header").addClass("header-blog");
         $("#home").removeClass("active");
         $("#activities a").addClass("active nav-item");
-        document.title = 'Actividades';
+        document.title = 'Pilares';
 
 }]);
 mainModule.controller('DiaDeLaCienciaController', ['$scope', function($scope) {
@@ -34,7 +34,7 @@ mainModule.controller('DiaDeLaCienciaController', ['$scope', function($scope) {
     $("#header").addClass("header-blog");
     $("#home").removeClass("active");
     $("#contact a").addClass("active nav-item");
-    document.title = 'Día de la ciencia';
+    document.title = 'Día de la Ciencia';
 }]);
 mainModule.controller('ProyectoMexicoController', ['$scope', function($scope) {
     $("#app-body").addClass("blog-page header-blog");
